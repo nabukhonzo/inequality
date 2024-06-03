@@ -10,7 +10,7 @@ library(lubridate)
 library(readxl)
 
 #### Set working Directory ####
-setwd('/Users/liambeardsmore/Documents/R Work/Ghana/data')
+setwd('/Users/data')
 
 #### Read in Data ####
 bthsdata <- readxl::read_excel('births_data.xlsx', 
