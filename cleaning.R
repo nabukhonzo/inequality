@@ -1,5 +1,3 @@
-####coding basics####
-2+3
 #coding basic----
 
 #### Load Libraries ####
